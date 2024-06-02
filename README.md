@@ -41,7 +41,7 @@ To use this project:
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/adityakanthe10/Amazon-clone-html-css-and-js/edit/main>
 
 2. Open the project:
 Navigate to the project directory and open index.html in a web browser.
