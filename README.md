@@ -35,6 +35,9 @@ This file provides the styling for the HTML elements. Key styles include:
 
 - **Font Awesome**: Used for icons within the navigation bar and other sections. It is included via a CDN link.
 
+## Link 
+- https://adityakanthe10.github.io/Amazon-clone-html-css-and-js/
+
 ## Usage
 
 To use this project:
